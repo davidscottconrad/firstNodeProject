@@ -1,2 +1,2 @@
-var msg = 'Hello World';
-console.log(msg);
+const message2 = require('./myscript.js');
+console.log(message2);
