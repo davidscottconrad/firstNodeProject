@@ -1,5 +1,4 @@
-const message2 = require('./myscript.js');
-console.log(message2);
+#!/usr/bin/env node
 
 const fs = require('fs');
 
